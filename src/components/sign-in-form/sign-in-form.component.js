@@ -32,7 +32,7 @@ const SignInForm = () => {
       // setCurrentUser(user)
       setFormFields(defaultFormFields);
     } catch (error) {
-      alert('Something went wrong.Please retry again')
+      // alert('Something went wrong.Please retry again')
     }
   };
 
