@@ -1,4 +1,4 @@
-Deployed on https://quiet-vacherin-5af8c6.netlify.app/
+Deployed on https://clothingbyasad225.netlify.app/
 
 
 # Getting Started with Create React App
